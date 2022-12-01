@@ -1,6 +1,6 @@
 <h1 align="center">Desarrollador Web🧇 y MID LEVEL Python 🐍 Christopher</h1>
 <h3 align="center">Desarrollador Web con JavaScript🎫, React⚛️ y PHP | Python Developer🐍</h3>
-<h3 align="center">Diseñador de Vectores en AI  <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a>, y Editor de fotos en PS  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a></h3>
+<h3 align="center">Diseñador de Vectores en AI  <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a>, y Editor de fotos en PS  <img src="https://th.bing.com/th/id/R.8b790134e25242cece5eed46ea678243?rik=IKLUWgQCs1OPxw&pid=ImgRaw&r=0" alt="photoshop" width="40" height="40"/> </a></h3>
 
 - 🔭 Actualmente estoy trabajando en: [Calculadora Avanzada con Python](https://github.com/Christopher13sv/Calculadora-de-Python-Avanzada)
 
